@@ -1,0 +1,18 @@
+water-footprint-calculator/
+├── main.py
+├── data/
+│   ├── crop_data.json
+│   ├── soil_data.json
+│   ├── state_data.json
+│   └── rainfall_data.json
+├── models/
+│   ├── crop.py
+│   ├── state.py
+│   └── soil.py
+├── utils/
+│   ├── data_loader.py
+│   └── calculations.py
+└── ui/
+    ├── web.py
+    └── templates/
+        └── index.html
