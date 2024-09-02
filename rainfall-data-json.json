@@ -1,0 +1,32 @@
+{
+  "maharashtra": {
+    "JUN": 150,
+    "JUL": 300,
+    "AUG": 250,
+    "SEP": 180
+  },
+  "punjab": {
+    "JUN": 50,
+    "JUL": 200,
+    "AUG": 180,
+    "SEP": 100
+  },
+  "west bengal": {
+    "JUN": 200,
+    "JUL": 350,
+    "AUG": 300,
+    "SEP": 250
+  },
+  "gujarat": {
+    "JUN": 100,
+    "JUL": 250,
+    "AUG": 200,
+    "SEP": 150
+  },
+  "tamil nadu": {
+    "JUN": 50,
+    "JUL": 100,
+    "AUG": 150,
+    "SEP": 200
+  }
+}

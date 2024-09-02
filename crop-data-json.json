@@ -1,0 +1,37 @@
+{
+  "wheat": {
+    "base_water_footprint": 1500,
+    "soil_preference": ["alluvial", "black"],
+    "growing_days": 120,
+    "seasons": ["rabi"],
+    "price_per_kg": 20
+  },
+  "rice": {
+    "base_water_footprint": 2500,
+    "soil_preference": ["alluvial", "red"],
+    "growing_days": 120,
+    "seasons": ["kharif"],
+    "price_per_kg": 25
+  },
+  "cotton": {
+    "base_water_footprint": 3000,
+    "soil_preference": ["black", "red"],
+    "growing_days": 180,
+    "seasons": ["kharif"],
+    "price_per_kg": 60
+  },
+  "sugarcane": {
+    "base_water_footprint": 2000,
+    "soil_preference": ["alluvial", "red"],
+    "growing_days": 360,
+    "seasons": ["kharif", "rabi"],
+    "price_per_kg": 3
+  },
+  "maize": {
+    "base_water_footprint": 1200,
+    "soil_preference": ["alluvial", "black"],
+    "growing_days": 100,
+    "seasons": ["kharif", "rabi"],
+    "price_per_kg": 18
+  }
+}

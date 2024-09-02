@@ -1,0 +1,27 @@
+{
+  "maharashtra": {
+    "climate_factor": 1.2,
+    "primary_soil": "black",
+    "electricity_cost": 5.5
+  },
+  "punjab": {
+    "climate_factor": 0.8,
+    "primary_soil": "alluvial",
+    "electricity_cost": 4.8
+  },
+  "west bengal": {
+    "climate_factor": 1.1,
+    "primary_soil": "alluvial",
+    "electricity_cost": 5.2
+  },
+  "gujarat": {
+    "climate_factor": 1.3,
+    "primary_soil": "black",
+    "electricity_cost": 5.0
+  },
+  "tamil nadu": {
+    "climate_factor": 1.0,
+    "primary_soil": "red",
+    "electricity_cost": 5.3
+  }
+}

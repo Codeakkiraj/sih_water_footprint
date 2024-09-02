@@ -1,0 +1,7 @@
+{
+  "alluvial": {"water_retention": 1.0},
+  "black": {"water_retention": 1.2},
+  "red": {"water_retention": 0.9},
+  "laterite": {"water_retention": 0.8},
+  "desert": {"water_retention": 0.7}
+}
