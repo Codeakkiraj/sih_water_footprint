@@ -1,0 +1,23 @@
+{
+  "rice": {
+    "base_water_footprint": 2500,
+    "soil_preference": "alluvial",
+    "growing_days": 120,
+    "seasons": ["kharif"],
+    "price_per_kg": 20
+  },
+  "wheat": {
+    "base_water_footprint": 1800,
+    "soil_preference": "alluvial",
+    "growing_days": 90,
+    "seasons": ["rabi"],
+    "price_per_kg": 18
+  },
+  "cotton": {
+    "base_water_footprint": 2200,
+    "soil_preference": "black",
+    "growing_days": 180,
+    "seasons": ["kharif"],
+    "price_per_kg": 35
+  }
+}
