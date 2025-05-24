@@ -4,9 +4,9 @@ class State:
         self.climate_factor = info['climate_factor']
         self.primary_soil = primary_soil
         self.electricity_cost = info['electricity_cost']
-        self.rainfall_data = rainfall_data
+        self.rainfall_data = rainfall_data # Added rainfall_data attribute
 
-    def get_rainfall_data(self):
+    def get_rainfall_data(self): # Added get_rainfall_data method
         return self.rainfall_data
 
     def __str__(self):

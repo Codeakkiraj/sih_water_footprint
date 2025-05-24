@@ -3,6 +3,7 @@ from utils.calculations import calculate_water_footprint, create_irrigation_sche
 from utils.data_loader import load_crop_data, load_state_data, load_soil_data
 from models.crop import Crop
 from models.state import State
+from models.soil import Soil # Added import for Soil
 
 app = Flask(__name__)
 
